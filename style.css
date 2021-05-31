@@ -1,0 +1,25 @@
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: green;
+  
+}
+
+.card-board td {
+  width: 50px;
+  height: 50px;
+  border: solid grey;
+}
+
+.card-back {
+  background-color: red;
+}
+
+.player-score-wrapper {
+  display: flex;
+}
+
+.player-wrapper {
+  height: 70px;
+}
